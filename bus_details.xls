@@ -1,0 +1,5 @@
+id,bus_number,source,destination,price,total_seats
+1,TS01AB1234,Hyderabad,Warangal,250,40
+2,TS02CD5678,Hyderabad,Khammam,300,40
+3,TS03EF9012,Warangal,Khammam,180,40
+4,TS04GH3456,Hyderabad,Karimnagar,280,40
